@@ -1,3 +1,11 @@
-p {
+p,h1,li {
   color: #4B0082;
+}
+
+.quote {
+	color: purple;
+}
+
+#mainquote {
+	color: pink;
 }
